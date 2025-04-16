@@ -23,8 +23,6 @@ public class Principal {
 		lista.add(c1);
 		lista.add(c2);
 		
-		Collections.sort(lista);
-		
 		
 		double area;
 		
